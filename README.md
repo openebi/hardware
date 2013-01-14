@@ -1,8 +1,14 @@
 # OpenEBI Printed Circuit Board
 
-OpenEBI is an open source project to measure electrical bioimpedance (EBI) using four-electrode technique. The hardware implements an AD5933-based spectrometer. Both magnitude and phase can be measured at the frequency range from few kilohertz up to 100 kHz. This is the GitHub repository of OpenEBI hardware. The software is located at https://github.com/openebi/software.
+OpenEBI is an open source project to measure electrical bioimpedance (EBI)
+using four-electrode technique. The hardware implements an AD5933-based spectrometer.
+Both magnitude and phase can be measured at the frequency range from few kilohertz up to
+100 kHz. This is the GitHub repository of OpenEBI hardware. The software is located at
+https://github.com/openebi/software.
 
-__IMPORTANT! OpenEBI is intended for scientific use. Persons handling these design materials or the assembled printed circuit board must have electronics training in medical electronics and observe good engineering practice standards.__
+__IMPORTANT! OpenEBI is intended for scientific use. Persons handling these design
+materials or the assembled printed circuit board must have electronics training in
+medical electronics and observe good engineering practice standards.__
 
 <img src="https://github.com/openebi/hardware/raw/master/exports/board-image.png" />
 
@@ -10,9 +16,16 @@ __IMPORTANT! OpenEBI is intended for scientific use. Persons handling these desi
 
 	exports/        Place for the supportive design materials such as BOM
 	openebi.brd     Layout, Eagle 5.x
-	openebi.cam	    Cam job for gerbers, Eagle 5.x
-	openebi.lbr	    Component library, Eagle 5.x
-	openebi.sch	    Schematic, Eagle 5.x
+	openebi.cam     Cam job for gerbers, Eagle 5.x
+	openebi.lbr     Component library, Eagle 5.x
+	openebi.sch     Schematic, Eagle 5.x
+
+## Publications
+
+Blomqvist KH , Sepponen RE, Lundbom N and Lundbom J: [An Open-source hardware for electrical
+bioimpedance measurement](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6376851).
+*In Proc. of the 13th Biennial Baltic Electronics Conference (BEC2012): 3-5 October 2012; Tallinn,
+Estonia*. IEEE 2012:199‒202.
 
 ## License
 
