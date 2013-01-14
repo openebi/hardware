@@ -1,0 +1,7 @@
+*.lbs
+*.s#*
+*.b#*
+*.l#*
+*~
+*.swp
+Thumbs.db
