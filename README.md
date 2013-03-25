@@ -11,6 +11,7 @@ materials or the assembled printed circuit board must have electronics training 
 medical electronics and observe good engineering practice standards.__
 
 <img src="https://github.com/openebi/hardware/raw/master/exports/board-image.png" />
+<img src="https://github.com/openebi/hardware/raw/master/exports/assembled_openebi_board.png" />
 
 ## Files and folders
 
