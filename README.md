@@ -24,7 +24,7 @@ medical electronics and observe good engineering practice standards.__
 ## Publications
 
 Blomqvist KH , Sepponen RE, Lundbom N and Lundbom J: [An Open-source hardware for electrical
-bioimpedance measurement](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6376851).
+bioimpedance measurement](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6376851).
 *In Proc. of the 13th Biennial Baltic Electronics Conference (BEC2012): 3-5 October 2012; Tallinn,
 Estonia*. IEEE 2012:199‒202.
 
