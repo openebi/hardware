@@ -1,5 +1,6 @@
 ## BOM :: OpenEBI, https://github.com/openebi
 
+- C2-3 NP0/50V, other ceramics X7R/50V
 
 Part Value              Device             Package          Description                                                             
 C1   100n               C-EUC0402          C0402            CAPACITOR, European symbol                                              
@@ -35,15 +36,15 @@ C30  10p                C-EUC0402          C0402            CAPACITOR, European 
 C31  200p               C-EUC0402          C0402            CAPACITOR, European symbol                                              
 DC1  RW2-0512D/H3       RECOM-RW2          RECOM-MINI-DIP16                                                                         
 IC1  ADUM2404           ADUM2404           SO-16W           Triple-Channel Digital Isolators                                        
-IC2  MEGA8-AI           MEGA8-AI           TQFP32-08        MICROCONTROLLER                                                         
+IC2  ATMEGA328          MEGA8-AI           TQFP32-08        MICROCONTROLLER                                                         
 IC3  AD5933             AD5933             SSOP16           1 MSPS, 12-Bit Impedance Converter, Network Analyzer                    
-IC4  OP140              AD8541RJ           SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
-IC5  AD8605             AD8541RJ           SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
-IC6  AD8605             AD8541RJ           SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
-IC7  AD8605             AD8541RJ           SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
-L1   10u                L2828              L2828                                                                                    
-L2   22u                L2828              L2828                                                                                    
-L3   22u                L2828              L2828                                                                                    
+IC4  OPA140             OPA140             SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
+IC5  OPA140             OPA140             SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
+IC6  OPA140             OPA140             SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
+IC7  OPA140             OPA140             SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
+L1   10u                WE-TPC             L2828            Shielded choke                                                                        
+L2   22u                WE-TPC             L2828            Shielded choke                                                                        
+L3   22u                WE-TPC             L2828            Shielded choke                                                                        
 Q1   CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5  Crystal                                                                 
 R1   3k3                R-EU_R1206         R1206            RESISTOR, European symbol                                               
 R2   3k3                R-EU_R0402         R0402            RESISTOR, European symbol                                               
