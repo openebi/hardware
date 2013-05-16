@@ -34,7 +34,7 @@ C28  1u                 C-EUC0402          C0402            CAPACITOR, European 
 C29  10u                CPOL-EUA/3216-18R  A/3216-18R       POLARIZED CAPACITOR, European symbol                                    
 C30  10p                C-EUC0402          C0402            CAPACITOR, European symbol                                              
 C31  200p               C-EUC0402          C0402            CAPACITOR, European symbol                                              
-DC1  RW2-0512D/H3       RECOM-RW2          RECOM-MINI-DIP16                                                                         
+DC1  RW2-0512D/H3/B-ND  RECOM-RW2          RECOM-MINI-DIP16                                                                         
 IC1  ADUM2404           ADUM2404           SO-16W           Triple-Channel Digital Isolators                                        
 IC2  ATMEGA328          MEGA8-AI           TQFP32-08        MICROCONTROLLER                                                         
 IC3  AD5933             AD5933             SSOP16           1 MSPS, 12-Bit Impedance Converter, Network Analyzer                    
@@ -45,7 +45,7 @@ IC7  OPA140             OPA140             SOT23-5          General-Purpose CMOS
 L1   10u                WE-TPC             L2828            Shielded choke                                                                        
 L2   22u                WE-TPC             L2828            Shielded choke                                                                        
 L3   22u                WE-TPC             L2828            Shielded choke                                                                        
-Q1   CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5  Crystal                                                                 
+Q1   12MHz              CTX839CT-ND        CRYSTAL-3.2X2.5  Crystal                                                                 
 R1   3k3                R-EU_R1206         R1206            RESISTOR, European symbol                                               
 R2   3k3                R-EU_R0402         R0402            RESISTOR, European symbol                                               
 R3   3k3                R-EU_R0402         R0402            RESISTOR, European symbol                                               
