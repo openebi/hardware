@@ -45,7 +45,7 @@ L1   10u                L2828              L2828
 L2   22u                L2828              L2828                                                                                    
 L3   22u                L2828              L2828                                                                                    
 Q1   CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5    CRYSTAL-3.2X2.5  Crystal                                                                 
-R1   1k6                R-EU_R1206         R1206            RESISTOR, European symbol                                               
+R1   3k3                R-EU_R1206         R1206            RESISTOR, European symbol                                               
 R2   3k3                R-EU_R0402         R0402            RESISTOR, European symbol                                               
 R3   3k3                R-EU_R0402         R0402            RESISTOR, European symbol                                               
 R4   16k5               R-EU_R0402         R0402            RESISTOR, European symbol                                               
@@ -61,7 +61,7 @@ R13  22k                R-EU_R0402         R0402            RESISTOR, European s
 R14  100k               R-EU_R0402         R0402            RESISTOR, European symbol                                               
 R15  22k                R-EU_R0402         R0402            RESISTOR, European symbol                                               
 R16  22k                R-EU_R0402         R0402            RESISTOR, European symbol                                               
-R17  1k6                R-EU_R1206         R1206            RESISTOR, European symbol                                               
+R17  3k3                R-EU_R1206         R1206            RESISTOR, European symbol                                               
 R18  10k                R-EU_R0402         R0402            RESISTOR, European symbol                                               
 REF1 ADR444ARM          ADR444ARM          MSOP8            Ultralow Noise, LDO XFET Voltage References with Current Sink and Source
 REG1 LP2981             LP2981             SOT23-5                                                                                  
