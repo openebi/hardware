@@ -35,7 +35,7 @@ C29  10u                CPOL-EUA/3216-18R  A/3216-18R       POLARIZED CAPACITOR,
 C30  10p                C-EUC0402          C0402            CAPACITOR, European symbol                                              
 C31  200p               C-EUC0402          C0402            CAPACITOR, European symbol                                              
 DC1  RW2-0512D/H3/B-ND  RECOM-RW2          RECOM-MINI-DIP16                                                                         
-IC1  ADUM2404           ADUM2404           SO-16W           Triple-Channel Digital Isolators                                        
+IC1  ADUM2402           ADUM2402           SO-16W           Triple-Channel Digital Isolators                                        
 IC2  ATMEGA328          MEGA8-AI           TQFP32-08        MICROCONTROLLER                                                         
 IC3  AD5933             AD5933             SSOP16           1 MSPS, 12-Bit Impedance Converter, Network Analyzer                    
 IC4  OPA140             OPA140             SOT23-5          General-Purpose CMOS Rail-to-Rail Amplifiers                            
