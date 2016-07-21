@@ -28,6 +28,10 @@ bioimpedance measurement](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnu
 *In Proc. of the 13th Biennial Baltic Electronics Conference (BEC2012): 3-5 October 2012; Tallinn,
 Estonia*. IEEE 2012:199‒202.
 
+**Also found to be used in:**
+
+Mustonen V: [Development of a health chair for non-invasive patient monitoring](https://aaltodoc.aalto.fi/bitstream/handle/123456789/12016/master_Mustonen_Ville_2013.pdf). *Master’s Thesis*. Aalto University, School of Electrical Engineering 2013.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />
