@@ -23,7 +23,7 @@ medical electronics and observe good engineering practice standards.__
 
 ## Publications
 
-Blomqvist KH , Sepponen RE, Lundbom N and Lundbom J: [An Open-source hardware for electrical
+Blomqvist KH, Sepponen RE, Lundbom N and Lundbom J: [An Open-source hardware for electrical
 bioimpedance measurement](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6376851).
 *In Proc. of the 13th Biennial Baltic Electronics Conference (BEC2012): 3-5 October 2012; Tallinn,
 Estonia*. IEEE 2012:199‒202.
@@ -31,6 +31,10 @@ Estonia*. IEEE 2012:199‒202.
 **Also found to be used in:**
 
 Mustonen V: [Development of a health chair for non-invasive patient monitoring](https://aaltodoc.aalto.fi/bitstream/handle/123456789/12016/master_Mustonen_Ville_2013.pdf). *Master’s Thesis*. Aalto University, School of Electrical Engineering 2013.
+
+**and at least once mentioned in:**
+
+Santero J-M: [Fysiologisia suureita mittaavan hajautetun järjestelmän suunnittelu ja toteutus](https://aaltodoc.aalto.fi/bitstream/handle/123456789/19113/master_Santero_Juha-Matti_2015.pdf). *Master's Thesis*. Aalto University, School of Electrical Engineering 2015.
 
 ## License
 
